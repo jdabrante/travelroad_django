@@ -1,0 +1,8 @@
+<h1>My Travel Bucket List</h1>
+<h2>Places I've Already Been To</h2>
+<ul>
+{% for place in visited %}
+    <li>{{ place.name }}</li>
+{% endfor %}
+</ul>
+<p><a href='/'>Go Back</a></p>
