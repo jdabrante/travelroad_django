@@ -14,5 +14,5 @@ ssh dimas@dimas.arkania.es "
   # python manage.py migrate
   # python manage.py collectstatic --no-input
 
-  supervisorctl restart travelroad
+  supervisorctl restart travelroad_django
 "
