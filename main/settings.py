@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5u!^y%zh@vfarq29r^2kufj(ygiskqettlf3rnom%7a3ynlb%8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "10.109.17.40", "travelroad_django.me", "travelroad.django.dimas.arkania.es"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "10.109.17.40", "travelroad_django.me", "www.travelroad.django.dimas.arkania.es"]
 
 
 # Application definition
