@@ -408,4 +408,4 @@ Si encontramos dificultades a la hora de realizar algún paso debemos explicar e
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+En esta práctica hemos aprenido como desplegar una aplicación con el framework para Python, Django. La conclusión principal a la que se puede llegar es que existe una diferencia entre el despliegue de frameworks.
